@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GI03qJ7o8ylcKUkq32romM+bMGrPlg5zGj2nQyLCeJo=",
+  "Source": "ETSFlixAPI",
+  "BasePath": "_content/ETSFlixAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
